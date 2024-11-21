@@ -1,0 +1,38 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+    width:65%;
+    background-color: brown;
+    margin:auto;
+    position: relative;
+}
+.menu a{
+    text-decoration: none;
+    font-size:25px;
+    letter-spacing: 10px;
+}
+.adm{
+    background-color:brown;
+
+
+}
+
+.basket{
+
+    color: green;
+    font-size:35px;
+ 
+}
+
+
+.a4{
+position: absolute;
+color: black;
+font-size:25px;
+margin-left:95%;
+margin-top: 1.5%;
+color:green;
+
+
+
+}
